@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from langchain.llms import OpenAI
 from langchain.chains import ConversationChain
 
-
+#git amk
 # Load environment variables from .env file
 load_dotenv()
 
